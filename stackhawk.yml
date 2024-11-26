@@ -1,4 +1,4 @@
 app:
   applicationId: b4252e8c-4fad-4f9c-9dd4-cc9bc459cfd0
- # host: http://localhost:8080
+  host: http://localhost:8080
   env: Development
